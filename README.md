@@ -51,7 +51,10 @@ answer: Represents whether the row is eligible to place a queen.
 ### **2. Question discribie**
 - The eight queens problem is a typical case of the backtracking algorithm, in which the backtracking method is often a blind search that consumes too much search time. In this experiment, a heuristic search is used, where instead of taking any branch, the search selects the best branch down the line.
 
-### **3. About author**
+### **3. Final show**
+- ![final result](./Heuristic%20search/Img/Eight_queens.png)
+
+### **4. About author**
 - Student majored in artificial intelligence from XDU
 - [Personal Blog](https://blog.csdn.net/qq_49392169)
 - QQ: 2539110495
